@@ -2,9 +2,6 @@
 Message a Query and get Wikipedia's Answer for the same!
 
 # Steps for Setting up the app:
-
-Here We Go:
-
 1.Create a New Virtual Environment in Python.
 
 2. Install Selenium, Gunicorn, Flask and bs4
@@ -20,3 +17,4 @@ Here We Go:
 7. Publish the Expo App to Expo's servers.
 
 8. Looks like enough Work Done to Me :)
+
