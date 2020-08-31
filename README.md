@@ -18,3 +18,4 @@ Message a Query and get Wikipedia's Answer for the same!
 
 8. Looks like enough Work Done to Me :)
 
+### Check Out the Images Folder for working Images of the App.
